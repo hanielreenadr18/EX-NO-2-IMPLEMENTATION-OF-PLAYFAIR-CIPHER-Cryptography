@@ -1,10 +1,9 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
 
- 
+## NAME: HANIEL REENA D R
+## REGNO: 2305001008
 
 ## AIM:
- 
-
  
 
 To write a C program to implement the Playfair Substitution technique.
